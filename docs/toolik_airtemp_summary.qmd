@@ -1,6 +1,8 @@
 ---
 title: "Toolik Station Air Temperature"
 format: html
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
